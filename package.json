@@ -1,5 +1,5 @@
 {
-  "name": "lkgiovani",
+  "name": "giovani-kaua",
   "displayName": "lkdark",
   "description": "descricao",
   "version": "0.0.1",
@@ -16,7 +16,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "lkgiovani",
+        "label": "giovani-kaua",
         "uiTheme": "vs-dark",
         "path": "./themes/lkdark.json"
       }
