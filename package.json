@@ -2,7 +2,7 @@
   "name": "lkdark-theme",
   "displayName": "lkdark-theme",
   "description": "tema dark neon",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.89.0"
   },
