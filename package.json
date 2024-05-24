@@ -1,8 +1,8 @@
 {
-  "name": "giovani-kaua",
-  "displayName": "lkdark",
-  "description": "descricao",
-  "version": "0.0.1",
+  "name": "lkdark-theme",
+  "displayName": "lkdark-theme",
+  "description": "tema dark neon",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -13,6 +13,11 @@
     "type": "git",
     "url": "https://github.com/lkgiovani/lkdark.git"
   },
+  "icon": "icon.ico",
+  "keywords": [
+    "dark"
+  ],
+  "publisher": "giovanisouza",
   "contributes": {
     "themes": [
       {
