@@ -11,4 +11,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - add img v0.0.3
 - react atributo componente v0.0.4
 - mudança no border v0.0.5
-- mudança no terminal v0.0.5
+- mudança no terminal v0.0.6
+- select text v0.0.7
