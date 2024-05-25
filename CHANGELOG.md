@@ -13,3 +13,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - mudança no border v0.0.5
 - mudança no terminal v0.0.6
 - select text v0.0.7
+- corrigido terminal v0.0.8
