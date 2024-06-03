@@ -14,3 +14,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - mudança no terminal v0.0.6
 - select text v0.0.7
 - corrigido terminal v0.0.8
+- corrigido select v0.0.9
