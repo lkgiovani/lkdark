@@ -15,3 +15,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - select text v0.0.7
 - corrigido terminal v0.0.8
 - corrigido select v0.0.9
+- mudando cores do Side Bar v1.0.0
