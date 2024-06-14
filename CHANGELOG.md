@@ -16,3 +16,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - corrigido terminal v0.0.8
 - corrigido select v0.0.9
 - mudando cores do Side Bar v1.0.0
+- mudando cor do terminal e do badge v1.1.0
